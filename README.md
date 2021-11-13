@@ -8,9 +8,9 @@ This projects main goal was to give Steve parnets a robust analysis of  DAQO new
 
 From the inital results gained we can clearly see which stocks are the most profitable, and now Steve can clearly explain to his parents which stocks are the most profitable longterm and how best to diversify their protfolio. This has also resulted in a code in which Steve can use in the future whenever he wants to judge any assortment of related stock values, with a macro that is easy to use. 
 
-<img scr = "Images/asg02.1.png">
+<img src = "Images/asg02.1.png">
 
-<img scr = "Images/asg02.png">
+<img src = "Images/asg02.png">
 
 ## Summary 
 
